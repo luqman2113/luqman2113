@@ -1,16 +1,27 @@
-## Hi there 👋
+# Luqman
+**Junior Full-Stack Developer | PHP, Laravel, React, TypeScript**
 
-<!--
-**luqman2113/luqman2113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer based in Johor, Malaysia. Currently interning at MW Rich (M) Sdn Bhd while completing studies at KPTM Batu Pahat, focusing on web application development with PHP (Laravel), React, TypeScript, and MySQL.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+
+- **Backend:** PHP, Laravel, REST APIs, MySQL
+- **Frontend:** React, TypeScript, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3
+- **Tools & Workflow:** Git, GitHub, Vite, Postman, Linux/CLI
+
+---
+
+### Current Focus & Experience
+
+- **Software Developer Intern (MW Rich):** Maintaining web platforms and building custom internal dashboards for daily company operations.
+- **Incident Routing System:** Architecting a PHP/Laravel backend system that utilizes reverse geocoding APIs to route municipal reports to appropriate authorities (JKR/PBT).
+- **Career Transition:** Actively seeking Junior Full-Stack Developer roles in Johor Bahru (available November 2026), focusing on PHP/Laravel and React/TypeScript stacks.
+
+---
+
+### Contact
+
+- **LinkedIn:** [linkedin.com/in/luqman-raizul](https://linkedin.com)
+- **Email:** luqieee2006@gmail.com
