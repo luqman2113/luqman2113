@@ -24,4 +24,4 @@ Software developer based in Johor, Malaysia. Currently interning at MW Rich (M) 
 ### Contact
 
 - **LinkedIn:** [linkedin.com/in/luqman-raizul](https://linkedin.com)
-- **Email:** luqieee2006@gmail.com
+- **Email:** luqman.raizul@gmail.com
