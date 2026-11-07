@@ -1,27 +1,27 @@
-# Luqman
-**Junior Full-Stack Developer | PHP, Laravel, React, TypeScript**
+Luqman
+Junior Software Engineer | PHP, Laravel, React, TypeScript
 
-Software developer based in Johor, Malaysia. Currently interning at MW Rich (M) Sdn Bhd while completing studies at KPTM Batu Pahat, focusing on web application development with PHP (Laravel), React, TypeScript, and MySQL.
+Software engineer based in Johor, Malaysia. Currently working as a Junior Software Engineer at BateriKereta.com HQ, focusing on developing internal financial systems, maintaining enterprise web platforms, and managing existing digital infrastructures.
 
----
+Technical Skills
+Backend: PHP, Laravel, REST APIs, MySQL
 
-### Technical Skills
+Frontend: React, TypeScript, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3, Livewire, Alpine.js
 
-- **Backend:** PHP, Laravel, REST APIs, MySQL
-- **Frontend:** React, TypeScript, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3
-- **Tools & Workflow:** Git, GitHub, Vite, Postman, Linux/CLI
+AI & Automation: Claude Code CLI, Agentic AI Workflows, Open-Source OCR (Tesseract OCR), MCP (Model Context Protocol) Integration
 
----
+Tools & Workflow: Git, GitHub, Vite, Postman, Linux/CLI, Nginx, PWA Architecture
 
-### Current Focus & Experience
+Experience & Current Focus
+Junior Software Engineer — BateriKereta.com HQ (Nov 2026 – Present)
 
-- **Software Developer Intern (MW Rich):** Maintaining web platforms and building custom internal dashboards for daily company operations.
-- **Incident Routing System:** Architecting a PHP/Laravel backend system that utilizes reverse geocoding APIs to route municipal reports to appropriate authorities (JKR/PBT).
-- **Career Transition:** Actively seeking Junior Full-Stack Developer roles in Johor Bahru (available November 2026), focusing on PHP/Laravel and React/TypeScript stacks.
+Architecting and developing the internal Accounting & Finance Portal System to streamline financial tracking and multi-outlet operational workflows.
 
----
+Maintaining and optimizing existing web applications, core internal platforms, and system infrastructures across 55+ outlets.
 
-### Contact
+Modernizing legacy features by integrating Open-Source automation tools and Progressive Web Application (PWA) architecture for mobile and desktop environments.
 
-- **LinkedIn:** [linkedin.com/in/luqman-raizul](https://linkedin.com)
-- **Email:** luqman.raizul@gmail.com
+Contact
+LinkedIn: linkedin.com/in/luqman-raizul
+
+Email: luqman.raizul@gmail.com
